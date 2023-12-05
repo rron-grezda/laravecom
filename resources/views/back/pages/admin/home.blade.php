@@ -6,7 +6,7 @@
 </header>
 <br>
 <main>
-    <p>Hello there! Enjoy your stay.</p>
+    <p>Hello there! Enjoy my laravel project.</p>
 </main>
 
     
